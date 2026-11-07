@@ -1,0 +1,8 @@
+#profile-title: @Raydikalx — ANYTLS
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#support-url: https://t.me/raydikalx
+#profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
+# @Raydikalx — anytls — 1 configs
+# --- below: schemes sing-box cannot parse (skipped by Hiddify) ---
+anytls://2f4c3fc5-8fa2-4576-a583-8f98a6026887@tw.ccwink.cc:6549/?insecure=1&sni=baidu.com#TW 🇹🇼 | @Raydikalx | 875B7F

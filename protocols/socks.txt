@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #support-url: https://t.me/raydikalx
 #profile-web-page-url: https://github.com/0xRadikal/Free-v2ray-Configs
-# @Raydikalx — socks — 3 configs
+# @Raydikalx — socks — 8 configs
 # --- below: schemes sing-box cannot parse (skipped by Hiddify) ---
-socks5://47.75.116.41:10800#HK 🇭🇰 | @Raydikalx | F2F44B
-socks://Og%3D%3D@144.91.111.48:1088#DE 🇩🇪 | @Raydikalx | F1AFCC
-socks://TV9ZT1VfRDpQcml2YXRl@pl1.cactussstp.com:1080#PL 🇵🇱 | @Raydikalx | 4AF5BC
+socks5://47.251.249.48:7777#US 🇺🇸 | @Raydikalx | 58BB81
+socks5://ks878449260d:YlRoWvE0dL_cUqS94wPeKnA4@87.84.49.140:62000#TH 🇹🇭 | @Raydikalx | 13A0B1
+socks5://ks878449260d:YlRoWvE0dL_cUqS94wPeKnA4@87.84.49.206:62000#TH 🇹🇭 | @Raydikalx | B330BD
+socks5://ks878449260d:YlRoWvE0dL_cUqS94wPeKnA4@87.84.49.245:62000#TH 🇹🇭 | @Raydikalx | CA063C
+socks5://Tek2x6av:DJy1T0dt@144.225.47.8:42000#MX 🇲🇽 | @Raydikalx | 8D5C96
+socks5://test123:test123@104.168.249.36:1080#US 🇺🇸 | @Raydikalx | 566A69
+socks5://u_rb1dba2:l1tlrdx52v@66.253.2.69:62000#US 🇺🇸 | @Raydikalx | 5942BB
+socks5://ufCobhydz4Wd:JdFlrZhqHP@69.16.157.244:1080#IT 🇮🇹 | @Raydikalx | 500DF6
